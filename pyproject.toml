@@ -13,6 +13,7 @@ beautifulsoup4 = "^4.11.1"
 requests = "^2.27.1"
 tabulate = "^0.8.9"
 table-ocr = "^0.2.5"
+loguru = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
 
