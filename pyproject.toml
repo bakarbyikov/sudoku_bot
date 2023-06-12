@@ -6,14 +6,13 @@ authors = ["Andrey <Bakarbyikov@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-setuptools = "^62.2.0"
-python-telegram-bot = "^13.11"
 numpy = "^1.22.3"
-beautifulsoup4 = "^4.11.1"
 requests = "^2.27.1"
 tabulate = "^0.8.9"
 table-ocr = "^0.2.5"
 loguru = "^0.6.0"
+python-telegram-bot = "^20.0a0"
+python-dotenv = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
 

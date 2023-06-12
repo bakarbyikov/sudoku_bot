@@ -1,0 +1,2 @@
+class CantRecogniseImage(Exception):
+    """"""
